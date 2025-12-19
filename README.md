@@ -16,6 +16,7 @@ This script performs a **Hybrid Sync**. It sends the exact current time from you
 
 * **Morning Block (1:00 AM – 12:59 PM):** Syncs normally using a `+6` offset. The clock shows `10:00`.
 * **Afternoon Block (1:00 PM – 12:59 AM):** Syncs using a `-6` offset. The clock calculates `UTC Time + (-6)` and displays `01:00` instead of `13:00`.
+**[You can set your own timezone in MY_TZ variable in clock_sync.py]**
 
 ---
 
