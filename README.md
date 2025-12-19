@@ -1,4 +1,4 @@
-# Xiaomi LYWSD02 12-Hour Sync 🕰️
+# Xiaomi LYWSD02MMC 12-Hour Sync 🕰️
 
 A lightweight macOS background automation to sync the **Xiaomi Temperature and Humidity Monitor Clock (LYWSD02MMC)** and force it into a 12-hour display format using a dynamic timezone offset "dodge."
 
